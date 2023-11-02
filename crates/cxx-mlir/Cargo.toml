@@ -1,0 +1,14 @@
+[package]
+edition = "2021"
+name = "cxx-mlir"
+version = "0.0.0"
+authors = ["silvanshade <silvanshade@users.noreply.github.com>"]
+license = "Apache-2.0 WITH LLVM-exception"
+repository = "https://github.com/silvanshade/cxx-mlir"
+description = "cxx-style FFI bindings to the MLIR C++ API"
+
+[build-dependencies]
+
+[dependencies]
+
+[dev-dependencies]
